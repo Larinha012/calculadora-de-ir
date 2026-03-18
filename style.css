@@ -25,7 +25,10 @@ h1{
     height:30px;
     margin-top: 20px;
     border-radius: 20px;
+    cursor: pointer;
 
 }
-
+#button:hover{
+    background-color:#DCDCDC;
+}
 
